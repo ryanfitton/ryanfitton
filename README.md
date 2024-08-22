@@ -95,4 +95,9 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [DIY Doorbell Chime for Hikvision ISAPI with a Raspberry Pi Pico](https://ryanfitton.co.uk/blog/diy-doorbell-chime-for-hikvision-isapi-with-a-raspberry-pi-pico/)
+- [Enabling/Disabling Hyper V in Windows 10 for Virtual Box and Docker development](https://ryanfitton.co.uk/blog/enabling-disabling-hyper-v-in-windows-10-for-virtual-box-and-docker-development/)
+- [Home Network Setup: What’s in my rack 2021](https://ryanfitton.co.uk/blog/home-network-setup-whats-in-my-rack-2021/)
+- [Replacing noisy stock fans on a HP 1920-24G-PoE+ Switch &lpar;JG925A&rpar;](https://ryanfitton.co.uk/blog/replacing-noisy-stock-fans-on-a-hp-1920-24g-poe-switch-jg925a/)
+- [Installing TP-Link Omada Controller on Ubuntu](https://ryanfitton.co.uk/blog/installing-tp-link-omada-controller-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
