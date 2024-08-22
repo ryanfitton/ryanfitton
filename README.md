@@ -85,7 +85,7 @@ I am a Front-End Developer from the UK.
 ---
 
 ### 🔥 &nbsp; My Public Stats :
-FYI a lot of my repos are public so you wont' see many stats here...
+FYI a lot of my repos are private so you won't see many stats here...
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryanfitton&theme=dark&background=000000)](https://git.io/streak-stats)
 
