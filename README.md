@@ -101,3 +101,8 @@ FYI a lot of my repos are private so you won't see many stats here...
 - [Replacing noisy stock fans on a HP 1920-24G-PoE+ Switch &lpar;JG925A&rpar;](https://ryanfitton.co.uk/blog/replacing-noisy-stock-fans-on-a-hp-1920-24g-poe-switch-jg925a/)
 - [Installing TP-Link Omada Controller on Ubuntu](https://ryanfitton.co.uk/blog/installing-tp-link-omada-controller-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🌐 Status Page for my hosted services : 
+[status.ryanfitton.co.uk](https://status.ryanfitton.co.uk/)
