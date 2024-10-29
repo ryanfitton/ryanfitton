@@ -30,7 +30,7 @@ I build things for the web! 🌍
 
 ---
 
-View links to my site and social media below, or visit my [Linktree profile](https://links.ryanfitton.co.uk/).
+View links to my site and social media below, or visit my [link page](https://links.ryanfitton.co.uk/).
 
 <ul>
   <li><a target="_blank" href="https://uk.linkedin.com/in/rfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="25" height="25"> LinkedIn</a></li>
