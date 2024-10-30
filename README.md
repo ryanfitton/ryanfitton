@@ -39,7 +39,7 @@ View links to my site and social media below, or visit my [link page](https://li
   <li><a target="_blank" href="https://mastodon.social/@ryanfitton"><img src="https://github.com/osompress/simple-social-icons/blob/develop/icons/SVG/mastodon.svg" alt="Mastodon" title="Mastodon" width="25" height="25"> Mastodon</a></li>
   <li><a target="_blank" href="https://www.facebook.com/rfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" title="Facebook" width="25" height="25"> Facebook</a></li>
   <li><a target="_blank" href="https://www.threads.net/@ryanfittonuk"><img src="https://github.com/osompress/simple-social-icons/blob/develop/icons/SVG/threads.svg" alt="Threads" title="Threads" width="25" height="25"> Threads</a></li>
-  <li><a target="_blank" href="https://www.youtube.com/channel/UCVXmGnJsInwJicCeqaZiZmQ">📺 YouTube</a></li>
+  <li><a target="_blank" href="http://www.youtube.com/@Ryan.Fitton">📺 YouTube</a></li>
   <li><a target="_blank" href="https://x.com/ryanfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" title="X (Twitter)" width="25" height="25"> X (Twitter)</a></li>
   <li><a target="_blank" href="https://www.instagram.com/ryanfittonuk/">📸 Instagram</a></li>
 </ul>
