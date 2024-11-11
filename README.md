@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Ryan Fitton - Front-End Developer</h1>
 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ryanfitton?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
 ### 🧑 &nbsp;About Me :
 
 I build things for the web! 🌍
@@ -99,6 +101,8 @@ FYI a lot of my repos are private so you won't see many stats here...
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryanfitton&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfitton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryanfitton&theme=juicyfresh&no-bg=true" />
 
 ---
 
