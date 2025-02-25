@@ -26,7 +26,6 @@ I build things for the web! 🌍
 
 - 🔭 I'm a front-end developer
 - 🌱 Exploring new careers
-- ⚡ In my free time I enjoy reading, maintaining my classic Mini Cooper and gardening
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rfitton-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/rfitton)
 - 🔐 You can send a secure PHP Encrypted message via Keybase: &nbsp; [keybase.io/ryanfitton](https://keybase.io/ryanfitton)
 
