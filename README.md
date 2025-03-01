@@ -107,11 +107,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Career transition: Web Development to Dev-Ops](https://ryanfitton.co.uk/blog/career-transition)
 - [Learning Ansible](https://ryanfitton.co.uk/blog/learning-ansible)
 - [Taking the plunge into JS frameworks with Next.JS](https://ryanfitton.co.uk/blog/rebuilding-with-nextjs)
 - [DIY Doorbell Chime for Hikvision ISAPI with a Raspberry Pi Pico](https://ryanfitton.co.uk/blog/diy-doorbell-chime-for-hikvision-isapi-with-a-raspberry-pi-pico)
 - [Enabling/Disabling Hyper V in Windows 10 for Virtual Box and Docker development](https://ryanfitton.co.uk/blog/enabling-disabling-hyper-v-in-windows-10-for-virtual-box-and-docker-development)
-- [Home Network Setup: What&#39;s in my rack 2021](https://ryanfitton.co.uk/blog/home-network-setup-whats-in-my-rack-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
