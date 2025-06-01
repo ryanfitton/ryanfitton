@@ -110,11 +110,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Idea: Use a private Git repo for documentation](https://ryanfitton.co.uk/blog/idea-use-a-private-git-repo-for-documentation)
 - [Upgrading My pfSense Router to a Lenovo M720Q Mini PC](https://ryanfitton.co.uk/blog/upgrading-router-to-lenovo-m720q-with-pfsense)
 - [Transforming My Home Network and Upskilling in Tech 2024–2025 &lpar;So far!&rpar;](https://ryanfitton.co.uk/blog/new-home-network-and-tech-skills)
 - [Ansible Playbooks for Proxmox and Frigate VM to enable Coral Edge TPU PCIe](https://ryanfitton.co.uk/blog/ansible-playbooks-for-proxmox-and-frigate-vm-to-enable-coral-edge-tpu-pcie)
 - [Career transition: Web Development to Dev-Ops](https://ryanfitton.co.uk/blog/career-transition)
-- [Learning Ansible](https://ryanfitton.co.uk/blog/learning-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
