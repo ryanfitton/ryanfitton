@@ -27,23 +27,8 @@ I build things for the web! 🌍
 - 🔭 I'm a front-end developer
 - 🌱 Exploring new careers
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rfitton-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/rfitton)
-- 🔐 You can send a secure PHP Encrypted message via Keybase: &nbsp; [keybase.io/ryanfitton](https://keybase.io/ryanfitton)
-
----
-
-View links to my site and social media below, or visit my [link page](https://links.ryanfitton.co.uk/).
-
-<ul>
-  <li><a target="_blank" href="https://uk.linkedin.com/in/rfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="25" height="25"> LinkedIn</a></li>
-  <li><a target="_blank" href="https://ryanfitton.co.uk">💬 View on Portfolio/Blog</a></li>
-  <li><a target="_blank" href="https://github.com/ryanfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="25" height="25"> Github</a></li>
-  <li><a target="_blank" href="https://mastodon.social/@ryanfitton"><img src="https://github.com/osompress/simple-social-icons/blob/develop/icons/SVG/mastodon.svg" alt="Mastodon" title="Mastodon" width="25" height="25"> Mastodon</a></li>
-  <li><a target="_blank" href="https://www.facebook.com/rfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" title="Facebook" width="25" height="25"> Facebook</a></li>
-  <li><a target="_blank" href="https://www.threads.net/@ryanfittonuk"><img src="https://github.com/osompress/simple-social-icons/blob/develop/icons/SVG/threads.svg" alt="Threads" title="Threads" width="25" height="25"> Threads</a></li>
-  <li><a target="_blank" href="http://www.youtube.com/@Ryan.Fitton">📺 YouTube</a></li>
-  <li><a target="_blank" href="https://x.com/ryanfitton"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" title="X (Twitter)" width="25" height="25"> X (Twitter)</a></li>
-  <li><a target="_blank" href="https://www.instagram.com/ryanfittonuk/">📸 Instagram</a></li>
-</ul>
+- 🔐 You can send a secure PGP Encrypted message via Keybase: &nbsp; [keybase.io/ryanfitton](https://keybase.io/ryanfitton) ([PGP Key](https://keybase.io/ryanfitton/pgp_keys.asc))
+- 💬 Follow me on social networks; visit my [link profile](https://links.ryanfitton.co.uk/) for socials I use the most often.
 
 ---
 
