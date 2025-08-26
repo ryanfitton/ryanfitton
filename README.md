@@ -95,11 +95,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Pushover functionality to RPI Pico Doorbell Chime](https://ryanfitton.co.uk/blog/update-diy-doorbell-chime-for-hikvision-isapi-with-a-raspberry-pi-pico)
 - [RPI Pico W powered Garage Door opener via 3v relay hat](https://ryanfitton.co.uk/blog/rpi-pico-garage-door-opener-relay-3v)
 - [MDN &lpar;Mozilla&rpar; HTTP Observatory](https://ryanfitton.co.uk/blog/mdn-http-observatory)
 - [Idea: Use a private Git repo for documentation](https://ryanfitton.co.uk/blog/idea-use-a-private-git-repo-for-documentation)
 - [Upgrading My pfSense Router to a Lenovo M720Q Mini PC](https://ryanfitton.co.uk/blog/upgrading-router-to-lenovo-m720q-with-pfsense)
-- [Transforming My Home Network and Upskilling in Tech 2024–2025 &lpar;So far!&rpar;](https://ryanfitton.co.uk/blog/new-home-network-and-tech-skills)
 <!-- BLOG-POST-LIST:END -->
 
 ---
