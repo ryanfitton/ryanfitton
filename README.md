@@ -95,11 +95,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Youtube Livestream scheduler wrapper using Go2RTC](https://ryanfitton.co.uk/blog/livestream-youtube-scheduler)
 - [Generating GPG Keys for PGP Mail and Git](https://ryanfitton.co.uk/blog/generating-gpg-keys-for-pgp-mail-and-git)
 - [Integrating Pushover functionality to RPI Pico Doorbell Chime](https://ryanfitton.co.uk/blog/update-diy-doorbell-chime-for-hikvision-isapi-with-a-raspberry-pi-pico)
 - [RPI Pico W powered Garage Door opener via 3v relay hat](https://ryanfitton.co.uk/blog/rpi-pico-garage-door-opener-relay-3v)
 - [MDN &lpar;Mozilla&rpar; HTTP Observatory](https://ryanfitton.co.uk/blog/mdn-http-observatory)
-- [Idea: Use a private Git repo for documentation](https://ryanfitton.co.uk/blog/idea-use-a-private-git-repo-for-documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
