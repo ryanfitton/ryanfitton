@@ -95,11 +95,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Five CSS Tricks I Picked Up in 2025 That&#39;ll Level Up Your Web Game](https://ryanfitton.co.uk/blog/top-10-modern-css-features)
 - [My Journey with Kubernetes: A Practical Experience from 2025](https://ryanfitton.co.uk/blog/my-journey-with-kubernetes)
 - [Five CSS Tricks I Picked Up in 2025 That&#39;ll Level Up Your Web Game](https://ryanfitton.co.uk/blog/five-css-tricks-i-picked-up-in-2025)
 - [Youtube Livestream scheduler wrapper using Go2RTC](https://ryanfitton.co.uk/blog/livestream-youtube-scheduler)
 - [Generating GPG Keys for PGP Mail and Git](https://ryanfitton.co.uk/blog/generating-gpg-keys-for-pgp-mail-and-git)
-- [Integrating Pushover functionality to RPI Pico Doorbell Chime](https://ryanfitton.co.uk/blog/update-diy-doorbell-chime-for-hikvision-isapi-with-a-raspberry-pi-pico)
 <!-- BLOG-POST-LIST:END -->
 
 ---
