@@ -95,11 +95,11 @@ FYI a lot of my repos are private so you won't see many stats here...
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Moving my Next.js site from Cloudflare Pages to Workers](https://ryanfitton.co.uk/blog/moving-nextjs-from-cloudflare-pages-to-workers)
 - [Homelab Security: Exposing Local Services Safely in 2026](https://ryanfitton.co.uk/blog/homelab-security-exposing-local-services-safely-in-2026)
 - [Who Watches the Watchman? Redundant Monitoring with Healthchecks.io](https://ryanfitton.co.uk/blog/who-watches-the-watchman-redundant-monitoring-with-uptime-kuma-and-healthchecksio)
 - [Backup strategy 2026](https://ryanfitton.co.uk/blog/backup-strategy-2026)
 - [Five CSS Tricks I Picked Up in 2025 That&#39;ll Level Up Your Web Game](https://ryanfitton.co.uk/blog/top-10-modern-css-features)
-- [My Journey with Kubernetes: A Practical Experience from 2025](https://ryanfitton.co.uk/blog/my-journey-with-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
