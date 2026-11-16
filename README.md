@@ -101,8 +101,3 @@ FYI a lot of my repos are private so you won't see many stats here...
 - [Backup strategy 2026](https://ryanfitton.co.uk/blog/backup-strategy-2026)
 - [Five CSS Tricks I Picked Up in 2025 That&#39;ll Level Up Your Web Game](https://ryanfitton.co.uk/blog/top-10-modern-css-features)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 🌐 Status Page for my hosted services : 
-[status.ryanfitton.co.uk](https://status.ryanfitton.co.uk/)
